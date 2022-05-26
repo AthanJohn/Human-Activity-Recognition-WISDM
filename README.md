@@ -3,7 +3,7 @@ Human activity recognition using Neural Networks
 
 Utilized python with Neural Networks for classifying human activities. 
 
-Used data from 4 different senrors (Accelometer and Gyroscope by smartphone and smartwatch).
+Used data from 4 different senrors (Accelometer and Gyroscope by smartphone and smartwatch) ( Dataset can be found on https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+ ).
 
 Key Features: Pandas, NumPy, Keras, TensorFlow, CuDNN, Sklearn, Matplotlib
 
